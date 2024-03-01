@@ -1,5 +1,3 @@
-<figure markdown>
- [![!Dawkins_photo](assets/dawkins_2014.jpg){ width="500" }]
-</figure>
+![header](assets/dawkins_2014.jpg)
 
 ### Here is a photo of Richard Dawkins from 2014.
