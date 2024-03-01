@@ -49,6 +49,7 @@ theme:
 # Page tree
 nav:
   - Home: index.md
+  - Dawkins: /pics/dawkins_2014.jpg
  # - Codebase: 
  #     Installation and Requirements: installation.md
  #     User Manual: manual.md
