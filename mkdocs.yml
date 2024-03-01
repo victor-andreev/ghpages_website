@@ -5,7 +5,7 @@ site_url: https://victor-andreev.github.io/foss-test-project
 
 # Repository
 repo_name: ghpages_website
-repo_url:https://github.com/victor-andreev/ghpages_website
+repo_url: https://github.com/victor-andreev/ghpages_website
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
