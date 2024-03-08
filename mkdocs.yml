@@ -27,7 +27,7 @@ theme:
   - navigation.tabs.sticky
   - navigation.indexes
   - navigation.top
-  - toc.follow
+  #- toc.follow
 
   # 404 page
   static_templates:
