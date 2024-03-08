@@ -16,5 +16,5 @@
 
 *Htslib  1.19.1
 
-!!! Warning Please install the required packages from the reps for your linux distributive and bioconda and conda-forge.
+!!! Warning "Please install the required packages from the reps for your linux distributive and bioconda and conda-forge."
 I would recommend using micromamba for managing your conda environments and packages.
