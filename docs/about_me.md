@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/welcome_to_miami.jpg" width="30%" height="35%">
+<img src="assets/welcome_to_miami.jpg" width="35%" height="40%">
 
 # Victor Andreev
 ## Postdoctoral  Research Associate at the University of Arizona
