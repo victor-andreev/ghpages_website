@@ -67,9 +67,9 @@ extra_css:
 # Extra Plugins
 plugins:
     - search
-    - mkdocstrings
-    - git-revision-date
-    - mkdocs-jupyter:
+   # - mkdocstrings
+   # - git-revision-date
+   # - mkdocs-jupyter:
           include_source: True
           ignore_h1_titles: True
 
