@@ -27,13 +27,13 @@ done
 ### 4. Mapping to the reference (index the reference with bwa index before starting)  
 module load bwa/0.7.17   
 for i in *_nu_clean.fq; do   
-bwa mem -t 32 -R \"@RG\\tID:${name:0:4}\\tSM:${name:0:4}\\tPL:ILM\\tLB:${name:0:4}" /references/syriaca_nu.fasta \$R1 '$R2 > /sams/${name:0:4}.sam   
+bwa mem -t 32 -R "@RG\\tID:${name:0:4}\\tSM:${name:0:4}\\tPL:ILM\\tLB:${name:0:4}" /references/syriaca_nu.fasta \$R1 '$R2 > /sams/${name:0:4}.sam   
 done
 
 ### 5. Sam to bam conversion, fixmates  
 module load samtools  
 for i in *.sam; do   
-samtools sort -@ 16 -n -O sam '$i | samtools fixmate -@ 16 -m -O bam - ${i:0:4}.bam   
+samtools sort -@ 16 -n -O sam \'$i | samtools fixmate -@ 16 -m -O bam - ${i:0:4}.bam   
 done
 
 ### 6. Samtools_sort  
