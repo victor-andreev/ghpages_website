@@ -82,9 +82,9 @@ markdown_extensions:
   - footnotes
   - meta
   - md_in_html
-  - toc:
-      permalink: true
-      title: On this page
+  #- toc:
+  #    permalink: true
+  #    title: On this page
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
