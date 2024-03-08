@@ -49,15 +49,15 @@ theme:
 # Page tree
 nav:
  - Home: index.md
- - Baja Geogenomics: https://bajageogenomics.org/
- - Dawkins: dawkins.md
+ - About: about_me.md
  # - Codebase: 
  #     Installation and Requirements: installation.md
  #     User Manual: manual.md
  - Data Managemen Plan: Data_Management_Plan.md
  # - Governance & Operations: Governance_Operations.md
  # - The openDendro Project: https://opendendro.org/
- - FOSS Main Page: https://foss.cyverse.org/
+ - Baja Geogenomics: https://bajageogenomics.org/
+ - FOSS: https://foss.cyverse.org/
  # - CV: cv.pdf
 
 # Theme Extras
