@@ -10,8 +10,8 @@ victorandreev@arizona.edu
 
 ## Work experience
 * 2023 – now  Postdoctoral Research Associate, SNRE at the University of Arizona, Tucson, AZ.
-* 2019 – 2023 Teaching assistant, Oklahoma State University (multiple semesters), Stillwater, OK.
-* 2018 – 2023  Oklahoma State University Herbarium assistant (multiple semesters), Stillwater, OK.
+* 2019 – 2023 Teaching assistant, Oklahoma State University, Stillwater, OK.
+* 2018 – 2023  Oklahoma State University Herbarium assistant, Stillwater, OK.
 * 2017  Research assistant, Oklahoma State University (PI Mark Fishbein),Stillwater, OK.
 * 2010-2013.  Associate scientist, Laboratory of Salmon Populations Monitoring, State Research Institute of Lake and River Fisheries, St. Petersburg, Russia.
 
