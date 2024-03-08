@@ -40,7 +40,7 @@ theme:
   # Palette and theme (uses personalized colors)
   language: en
   palette:
-    primary: orange
+    primary: teal
     accent: deep orange
   icon:
     logo: material/cogs
@@ -48,16 +48,16 @@ theme:
 
 # Page tree
 nav:
- - Home: index.md
- - About: about_me.md
+  - Home: index.md
+  - About: about_me.md
  # - Codebase: 
  #     Installation and Requirements: installation.md
  #     User Manual: manual.md
- - Data Managemen Plan: Data_Management_Plan.md
+  - Data Managemen Plan: Data_Management_Plan.md
  # - Governance & Operations: Governance_Operations.md
  # - The openDendro Project: https://opendendro.org/
- - Baja Geogenomics: https://bajageogenomics.org/
- - FOSS: https://foss.cyverse.org/
+  - Baja Geogenomics: https://bajageogenomics.org/
+  - FOSS: https://foss.cyverse.org/
  # - CV: cv.pdf
 
 # Theme Extras
