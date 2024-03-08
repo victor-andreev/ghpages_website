@@ -50,7 +50,8 @@ theme:
 nav:
   - Home: index.md
   - About me: about_me.md
-  - CV: Andreev_CV_2024.pdf
+  - CV: cv.md
+      Download my CV here:: Andreev_CV_2024.pdf
   - Codebase: 
       Required software: installation.md
       Workflow: From reads to snips.md
