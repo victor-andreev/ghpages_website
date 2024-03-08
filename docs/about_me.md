@@ -1,4 +1,4 @@
-![img|500](assets/welcome_to_miami.jpg)
+![img|200](assets/welcome_to_miami.jpg)
 
 # Victor Andreev
 ## Postdoctoral  Research Associate at the University of Arizona
