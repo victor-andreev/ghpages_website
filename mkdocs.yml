@@ -40,8 +40,8 @@ theme:
   # Palette and theme (uses personalized colors)
   language: en
   palette:
-    primary: teal
-    accent: deep orange
+    primary: light gray
+    accent: gray
   icon:
     logo: material/cogs
   favicon: material/cogs
@@ -49,7 +49,7 @@ theme:
 # Page tree
 nav:
   - Home: index.md
- # - About: about_me.md
+  - About me: about_me.md
  # - Codebase: 
  #     Installation and Requirements: installation.md
  #     User Manual: manual.md
