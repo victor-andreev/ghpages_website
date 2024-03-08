@@ -106,4 +106,5 @@ done
 
 ### 13. Filtering with bcftools.
 **Parameters: remove indels, quality score > 30, 5 percent of missing data per locus, minor allele frequency > 0.05, mean depth > 3, no loci in LD (r2 > 0.2)).**
+
 bcftools view --types snps snps_all.vcf | bcftools view -i 'MIN(FMT/DP)>3 & MIN(FMT/GQ)>30 & F_MISSING < 0.05 & MAF > 0.05' | bcftools +prune -m 0.2 -w 1000 -Ov -o snps_all_filtered.vcf
