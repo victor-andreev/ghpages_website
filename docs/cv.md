@@ -1,4 +1,6 @@
 # Victor Andreev           ([download my CV here](https://github.com/victor-andreev/website/blob/main/docs/Andreev_CV_2024.pdf))
+
+<a href="docs/Andreev_CV_2024.pdf" class="image fit"></a>
 victorandreev@arizona.edu
 
 1064 E. Lowell St., Tucson, AZ 85721
