@@ -50,16 +50,15 @@ theme:
 nav:
   - Home: index.md
   - About me: about_me.md
+  - CV: Andreev_CV_2024.pdf
  # - Codebase: 
  #     Installation and Requirements: installation.md
  #     User Manual: manual.md
   - Data Managemen Plan: Data_Management_Plan.md
  # - Governance & Operations: Governance_Operations.md
- # - The openDendro Project: https://opendendro.org/
   - Baja Geogenomics: https://bajageogenomics.org/
-  - FOSS: https://foss.cyverse.org/
- # - CV: cv.pdf
-
+ #- FOSS: https://foss.cyverse.org/
+  
 # Theme Extras
 extra_css:
   - stylesheets/extra.css
