@@ -1,6 +1,4 @@
-<p align="center">
-<img src="assets/welcome_to_miami.jpg" width="35%" height="40%">
-
+![Img](assets/welcome_to_miami.jpg)
 
 <h1 align="center"> Victor Andreev </h1>
 </p>
