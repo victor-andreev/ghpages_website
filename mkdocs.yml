@@ -1,11 +1,11 @@
-site_name: FOSS test project
-site_description: FOSS test website for the 2024 workshop
+site_name: FOSS website project
+site_description: This is a website built by Victor Andreev as a part of the Capstone project for the 2024 FOSS workshop
 site_author: Victor Andreev
-site_url: https://victor-andreev.github.io/foss-test-project
+site_url: https://victor-andreev.github.io/website
 
 # Repository
-repo_name: ghpages_website
-repo_url: https://github.com/victor-andreev/ghpages_website
+repo_name: website
+repo_url: https://github.com/victor-andreev/website
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
@@ -40,7 +40,7 @@ theme:
   # Palette and theme (uses personalized colors)
   language: en
   palette:
-    primary: light gray
+    primary: black
     accent: gray
   icon:
     logo: material/cogs
