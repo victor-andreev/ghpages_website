@@ -6,4 +6,4 @@ The **purpose** of this excersise was to build a functional website using GitHub
 
 ## My projects:
 * [Baja GeoGenomics](https://bajageogenomics.org/)
-* [Asclepias Hybridization](https://github.com/victor-andreev/asclepias)
+* [Asclepias hybridization](https://github.com/victor-andreev/asclepias)
