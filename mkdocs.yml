@@ -49,7 +49,7 @@ theme:
 # Page tree
 nav:
   - Home: index.md
-  - About: about_me.md
+ # - About: about_me.md
  # - Codebase: 
  #     Installation and Requirements: installation.md
  #     User Manual: manual.md
