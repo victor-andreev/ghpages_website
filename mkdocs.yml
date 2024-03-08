@@ -51,12 +51,12 @@ nav:
   - Home: index.md
   - About me: about_me.md
   - CV: cv.md
-      Download my CV here: Andreev_CV_2024.pdf
+#- Download my CV here: Andreev_CV_2024.pdf
   - Codebase: 
       Required software: installation.md
-      Workflow: From reads to snips.md
+      Workflow: From_reads_to_snips.md
   - Asclepias Data Managemen Plan: data_management_plan.md
-  - Asclepias Governance and Operations: Governance_Operations.md
+  - Asclepias Governance and Operations: governance_operations.md
  # - Baja Geogenomics: https://bajageogenomics.org/
  #- FOSS: https://foss.cyverse.org/
   
