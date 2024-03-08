@@ -51,7 +51,6 @@ nav:
   - Home: index.md
   - About me: about_me.md
   - CV: cv.md
-#- Download my CV here: Andreev_CV_2024.pdf
   - Codebase: 
       Required software: installation.md
       Workflow: From_reads_to_snips.md
