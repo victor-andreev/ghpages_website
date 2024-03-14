@@ -20,7 +20,7 @@ The raw sequencing data are publicly available on the SRA under the BioProject P
 No ethics approval was needed for this study.
 
 ## 8. Roles and Responsibilities
-Participants: Joshua Puzey, Elizabeth Davies, Carrie Olson-Manning, Sydney Kreutzmann, and Mark Fishbein. 
+Participants: Joshua Puzey, Elizabeth Davies, Carrie Olson-Manning, Sydney Kreutzmann, and Mark Fishbein.  
 V. A. and C. O-M. and S. K. performed fieldwork, and V. A., L.D. and S.K. generated sequence data. V. A. analyzed the data.
 
 ## 9. Budget and Resources
