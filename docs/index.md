@@ -1,4 +1,4 @@
-## | Victor Andreev | PhD
+## | Victor Andreev | PhD |
 
 This is a pet website built by me for fun (and in order to learn how to build a functional website:).
 
