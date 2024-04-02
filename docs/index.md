@@ -1,8 +1,6 @@
-## FOSS website project
+## | Victor Andreev | PhD
 
-This is a pet website built by me as a part of the Capstone project for the 2024 FOSS workshop.
-
-The **purpose** of this excersise was to build a functional website using GitHub Pages and have some fun in the process.
+This is a pet website built by me for fun (and in order to learn how to build a functional website:).
 
 ## My projects:
 * [Baja GeoGenomics](https://bajageogenomics.org/)
