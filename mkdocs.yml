@@ -1,4 +1,4 @@
-site_name: FOSS website project
+site_name: PopGen | Victor Andreev | PhD
 site_description: This is a website built by Victor Andreev as a part of the Capstone project for the 2024 FOSS workshop
 site_author: Victor Andreev
 site_url: https://victor-andreev.github.io/website
@@ -50,14 +50,14 @@ theme:
 nav:
   - Home: index.md
   - About me: about_me.md
-  - CV: cv.md
-  - Codebase: 
-       Required software: installation.md
-       Workflow: From_reads_to_snips.md
-  - Asclepias Data Managemen Plan: data_management_plan.md
-  - Asclepias Governance and Operations: governance_operations.md
- #- Baja Geogenomics: https://bajageogenomics.org/
- #- FOSS: https://foss.cyverse.org/
+  #- CV: cv.md
+  #- Codebase: 
+  #     Required software: installation.md
+  #     Workflow: From_reads_to_snips.md
+  #- Asclepias Data Managemen Plan: data_management_plan.md
+  #- Asclepias Governance and Operations: governance_operations.md
+  #- Baja Geogenomics: https://bajageogenomics.org/
+  #- FOSS: https://foss.cyverse.org/
   
 # Theme Extras
 extra_css:
